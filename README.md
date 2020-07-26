@@ -1,4 +1,4 @@
-<p align="center">This is a centered caption for the image</p>
+<p align="center">NewsHub</p>
 <br/>
 **NewsHub is a real time News application which is build using Ionic4 and google api.<br/>**
 <br/>
