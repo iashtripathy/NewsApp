@@ -1,5 +1,3 @@
-<p align="center">NewsHub</p>
-<br/>
 **NewsHub is a real time News application which is build using Ionic4 and google api.**<br/>
 <br/>
 **This is the menu page of my application**<br/>
